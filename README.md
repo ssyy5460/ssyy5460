@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?soft=soft&color=auto&height=300&section=header&text=Hi%20I'm%20soyeon%20Lim&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi%20I'm%20soyeon%20Lim&fontSize=45)
 
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyy5460D&show_icons=true&theme=radical)
